@@ -109,7 +109,7 @@ Version 2
  </td>
  <td>
  
- <img src="pictures/screenshot2.PNG" alt="Screenshot2">
+ <img src="pictures/screenshot2.png" alt="Screenshot2">
  
  </td>
  </tr>
@@ -117,12 +117,12 @@ Version 2
  <tr>
  <td>
  
- <img src="pictures/screenshot3.PNG" alt="Screenshot3">
+ <img src="pictures/screenshot3.png" alt="Screenshot3">
  
  </td>
  <td>
  
- <img src="pictures/screenshot4.PNG" alt="Screenshot4">
+ <img src="pictures/screenshot4.png" alt="Screenshot4">
  
  </td>
  </tr>
