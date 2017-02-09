@@ -43,7 +43,7 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 Inhaltsverzeichnis
 
-<p><a href="#Inh">Code.org®</a></p>
+<li><a href="#Übe">1. Code.org®</a></li>
 <p><a href="#Inh">App-Konzept</a></p>
 <p><a href="#Inh">Versionen</a></p>
 <p><a href="#Inh">Programmierung</a></p>
@@ -52,9 +52,9 @@ Inhaltsverzeichnis
 
 
 
-<a id="Inh"><h1>
-Code.org®
-</h1></a></h3>
+<h2>
+<a id="Übe">Code.org®</a>
+</h2>
 
 
 
