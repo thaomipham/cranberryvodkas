@@ -32,7 +32,9 @@
 
 <p>Code wird zum Programmieren der App genutzt, während Design die screens erstellt und bei Data Listen erstellt werden können. Bei Code und Design ist das Smartphone erkennbar, damit die Programmierer erkennen, wie das Design sein könnte und welche Funktionen sie erstellen können.</p>
 
+<a href="pictures/1.png">
 <img src="pictures/1.png">
+</a>
 
 <h2>
 <a id="App">App-Konzept</a>
