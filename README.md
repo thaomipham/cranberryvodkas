@@ -99,7 +99,25 @@ Version 2
 
 <p>Um die App auf das smartphone zu laden, muss man diese zu home screen hinzuzufügen.</p>
   
+<table>
+ <tr>
+  <td>
+
+  
  <img src="pictures/iphonescreenshotapplab.PNG" alt="Screenshot iPhone">
+ 
+ </td>
+ <td>
+ </td>
+ </tr>
+ 
+ <tr>
+ <td>
+ </td>
+ <td>
+ </td>
+ </tr>
+ </table>
  
 <h2>
 <a id="Bug">Bugs</a>
