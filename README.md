@@ -108,13 +108,22 @@ Version 2
  
  </td>
  <td>
+ 
+ <img src="pictures/screenshot2.PNG" alt="Screenshot2">
+ 
  </td>
  </tr>
  
  <tr>
  <td>
+ 
+ <img src="pictures/screenshot3.PNG" alt="Screenshot3">
+ 
  </td>
  <td>
+ 
+ <img src="pictures/screenshot4.PNG" alt="Screenshot4">
+ 
  </td>
  </tr>
  </table>
