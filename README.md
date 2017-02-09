@@ -6,12 +6,12 @@
 
 Inhaltsverzeichnis
 
-<li><a href="#Übe">1. Code.org®</a></li>
-<li><a href="#Übe">2. App-Konzept</a></li>
-<li><a href="#Übe">3. Versionen</a></li>
-<li><a href="#Übe">4. Programmierung</a></li>
-<li><a href="#Übe">5. Finale App</a></li>
-<li><a href="#Übe">6. Bugs</a></li>
+<li><a href="#Übe">Code.org®</a></li>
+<li><a href="#Übe">App-Konzept</a></li>
+<li><a href="#Übe">Versionen</a></li>
+<li><a href="#Übe">Programmierung</a></li>
+<li><a href="#Übe">Finale App</a></li>
+<li><a href="#Übe">Bugs</a></li>
 
 
 
