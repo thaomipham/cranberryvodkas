@@ -91,14 +91,14 @@ Version 2
 </h2>
 
 
-<p>Die fertige App kann nun <a href="https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q">CranberryVodka</a>  geteilt werden.</p>
+<p>Die fertige App kann nun über den Link <a href="https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q" target="_blank">CranberryVodka</a>  geteilt werden.</p>
 
 <p>Wenn man den link öffnet, muss erst das Alter des Users angegeben werden. Applab verbietet es Minderjährigen die Apps auf dem Smartphone zu speichern und leitet diese zu Code.org® weiter.</p>
 
 <p>Um die App auf das smartphone zu laden, muss man diese zu home screen hinzuzufügen.</p>
- <div style="float: left;">
+  
  <img src="pictures/iphonescreenshotapplab.PNG" alt="Screenshot iPhone">
-</div>
+ 
 <h2>
 <a id="Bug">Bugs</a>
 </h2>
