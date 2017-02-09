@@ -58,13 +58,16 @@ Version 1
 
 <p>Zuerst wurden screens mit den orders erstellt. Beim Klicken wird der User auf den nächsten screen geleitet, dies geschah in einer festgelegten Reihenfolge durch das manuelle Setzen der Bedingungen click, setscreen. Dadurch musste man, um eine neue order hinzuzufügen, einen neuen screen erstellen und manuell wieder ein event erstellen.</p>
 
+<img src="pictures/2.png">
+
 <h3>
 Version 2
 </h3>
 
 <p>Die screens wurden in einer Liste definiert, die abgelaufen wurde. Dadurch wurde die Liste in der festgelegten Reihenfolge abgelaufen und man musste einen neuen screen erstellen und diese in die Liste einfügen.</p>
 
-
+<img src="pictures/3.png">
+ 
 <h2>
 <a id="Pro">Programmierung</a>
 </h2>
