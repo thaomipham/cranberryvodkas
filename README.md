@@ -5,14 +5,14 @@
 </h1>
 
 <h3>Inhaltsverzeichnis</h3>
-<ol>
+<ul>
 <li><a href="#Cod">Code.org®</a></li>
 <li><a href="#App">App-Konzept</a></li>
 <li><a href="#Ver">Versionen</a></li>
 <li><a href="#Pro">Programmierung</a></li>
 <li><a href="#Fin">Finale App</a></li>
 <li><a href="#Bug">Bugs</a></li>
-</ol>
+</ul>
 
 
 <h2>
