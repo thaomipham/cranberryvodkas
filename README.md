@@ -101,13 +101,13 @@ Version 2
   
 <table>
  <tr>
-  <td>
+  <td width="50%">
 
   
  <img src="pictures/iphonescreenshotapplab.PNG" alt="Screenshot iPhone">
  
  </td>
- <td>
+ <td width="50%">
  
  <img src="pictures/screenshot2.png" alt="Screenshot2">
  
