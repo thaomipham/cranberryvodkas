@@ -99,7 +99,7 @@ Version 2
 
 <p>Um die App auf das smartphone zu laden, muss man diese zu home screen hinzuzufügen.</p>
   
-<table border="0">
+<table style="border: 5; margin: 10px;">
  <tr>
   <td width="50%">
 
