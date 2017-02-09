@@ -80,9 +80,11 @@ App-Konzept
 <p>Bei meiner App CranberryVodka gibt es <i>orders</i> und <i>drinks</i>. Die <i>orders</i> stehen für Befehle bzw. sind Texte, die den Spielern vorschreiben zu trinken/Schlücke zu verteilen, wenn bestimmte Bedingungen erfüllt wurden. Die <i>drinks</i> zeigen Rezepte zu beliebten, ausgewählten Cocktails, welche die Spieler machen können, um diese während des Spiels zu trinken.</p>
 
 
-<a id="Inh"><h1>
+<a id="Inh">
+<h1>
 Versionen
-</h1></a></h3>
+</h1>
+</a></h3>
 
 
 <p>Abgesehen von dem späten Start des Projektes, gab es viele Hürden, die zu meistern waren. Es entstanden Probleme bei der Wiedergabe der orders und drinks, weswegen 2 verschiedene Ansätze beziehungsweise Versionen der App entstanden.
