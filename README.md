@@ -66,7 +66,7 @@ Version 1
 Version 2
 </h3>
 
-<p>Die screens wurden in einer Liste definiert, die abgelaufen wurde. Dadurch wurde die Liste in der festgelegten Reihenfolge abgelaufen und man musste einen neuen screen erstellen und diese in die Liste einfügen.</p>
+<p>Zuerst wird eine Liste erstellt, die (in der Version 2) acht Werte enthält - <i>(drink1 - drink8) bzw. "orders"</i>. Eine Schleife, die sich wiederholt, solange die Variable <i>i</i> kleiner ist als die Anzahl an Einträgen in der Liste (acht). Innerhalb der Schleife wird <i>i</i> um jeweils einen erhöht. Außerdem gibt sie den <i>i</i>-ten Wert von <i>list</i> an die Funktion <i>setScreen</i> weiter. Wenn <i>i</i> einmal durchgelaufen ist (also größer als die Anzahl von Einträgen in <i>list</i>), wird <i>i</i> wieder gleich 0 gesetzt. </p>
 
 <img src="pictures/3.png">
  
@@ -142,4 +142,4 @@ Version 2
 <p>Die Liste könnte mehr orders erhalten und die Chancen, dass die selbe "random" gezogen wird, ist dadurch kleiner <sup>?</sup>
 Diese App wurde erstellt von Thao Mi Pham, 12 ab, im Rahmen des Informatikunterrichts an der Stormarnschule bei Herrn Buhl im Jahre 2016.</p>
 
-<p><sub>App is being used by Thao Mi Pham and her friends at parties :P</sub></p>
+<p style="color: pink; font-family: comic-sans;"><sub>App is being used by Thao Mi Pham and her friends at parties :P</sub></p>
