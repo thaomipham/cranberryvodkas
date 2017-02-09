@@ -7,11 +7,11 @@
 Inhaltsverzeichnis
 
 <li><a href="#Übe">1. Code.org®</a></li>
-<p><a href="#Inh">App-Konzept</a></p>
-<p><a href="#Inh">Versionen</a></p>
-<p><a href="#Inh">Programmierung</a></p>
-<p><a href="#Inh">Finale App</a></p>
-<p><a href="#Inh">Bugs</a></p>
+<li><a href="#Übe">>2. App-Konzept</a></li>
+<li><a href="#Übe">>3. Versionen</a></li>
+<li><a href="#Übe">4. Programmierung</a></li>
+<li><a href="#Übe">>5. Finale App</a></li>
+<li><a href="#Übe">>6. Bugs</a></li>
 
 
 
@@ -33,9 +33,9 @@ Inhaltsverzeichnis
 <p>Code wird zum Programmieren der App genutzt, während Design die screens erstellt und bei Data Listen erstellt werden können. Bei Code und Design ist das Smartphone erkennbar, damit die Programmierer erkennen, wie das Design sein könnte und welche Funktionen sie erstellen können.</p>
 
 
-<a id="Inh"><h1>
-App-Konzept
-</h1></a></h3>
+<h2>
+<a id="Übe">App-Konzept</a>
+</h2>
 
 
 <p>Meine App wurde von der existierenden App <mark>"Picolo"</mark> inspiriert. Bei <mark>"Picolo"</mark> werden die Namen der jeweiligen Spieler eingefügt und personenbezogene Aufgaben werden erstellt.</p>
@@ -43,11 +43,9 @@ App-Konzept
 <p>Bei meiner App CranberryVodka gibt es <i>orders</i> und <i>drinks</i>. Die <i>orders</i> stehen für Befehle bzw. sind Texte, die den Spielern vorschreiben zu trinken/Schlücke zu verteilen, wenn bestimmte Bedingungen erfüllt wurden. Die <i>drinks</i> zeigen Rezepte zu beliebten, ausgewählten Cocktails, welche die Spieler machen können, um diese während des Spiels zu trinken.</p>
 
 
-<a id="Inh">
-<h1>
-Versionen
-</h1>
-</a></h3>
+<h2>
+<a id="Übe">Versionen®</a>
+</h2>
 
 
 <p>Abgesehen von dem späten Start des Projektes, gab es viele Hürden, die zu meistern waren. Es entstanden Probleme bei der Wiedergabe der orders und drinks, weswegen 2 verschiedene Ansätze beziehungsweise Versionen der App entstanden.
@@ -66,9 +64,9 @@ Version 2
 <p>Die screens wurden in einer Liste definiert, die abgelaufen wurde. Dadurch wurde die Liste in der festgelegten Reihenfolge abgelaufen und man musste einen neuen screen erstellen und diese in die Liste einfügen.</p>
 
 
-<a id="Inh"><h1>
-Programmierung
-</h1></a></h3>
+<h2>
+<a id="Übe">RPgrammierung</a>
+</h2>
 
 
 <p>Über den Entwurf wurden die 5 screens “MAIN”, “GAME”, “DRINKS”,”DRINKPIC” und “NO” grundlegend gestaltet. Alle Buttons und andere Objekte, die permanent vorhanden sind, wurden hier erstellt. Außerdem greift das Programm auf zwei vordefinierte und durch den Nutzer unveränderbare Datenbanken zu. Die erste heißt “orders” und beinhaltet drei Spalten “ID”, “text” und “color”, die zweite heißt “drinks” und beinhaltet ebenfalls drei Spalten “ID”, “url” und “name”.</p>
@@ -84,9 +82,9 @@ Programmierung
 <p>Beim Klicken des Bildes wurde nicht nur die Seite gewechselt, sondern auch die Funktion “createButtons” neu gestartet, da diese nicht nur beim Klicken des Buttons “Good drinks for a great party”, sondern durch den Ausdruck “oder”, also “||” auch durch Drücken des Rezeptbildes gestartet wird. Um ein gedoppeltes Laden der Bilder zu vermeiden, werden hier zunächst alle alten Buttons gelöscht. Während des Aufenthalts auf dieser Seite ist es dem Nutzer ebenfalls möglich, jederzeit durch ein Drücken des Buttons “Home” auf den Startbildschirm zurück zu kehren.</p>
 
 
-<a id="Inh"><h1>
-Finale App
-</h1></a></h3>
+<h2>
+<a id="Übe">Finale App</a>
+</h2>
 
 
 <p>Die fertige App kann nun <p><a href="https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q">CranberryVodka</a></p>  geteilt werden.</p>
@@ -95,9 +93,9 @@ Finale App
 
 <p>Um die App auf das smartphone zu laden, muss man diese zu home screen hinzuzufügen.</p>
 
-<a id="Inh"><h1>
-Bugs
-</h1></a></h3>
+<h2>
+<a id="Übe">Bugs</a>
+</h2>
 
 <p>Da der gametext mit der jeweiligen Hintergrundfarbe über den ganzen Bildschirm definiert wurde, mussten keine neuen screens geschaffen werden, wodurch das einfügen von neuen orders und drinks einfacher wird. Jedoch zieht das nach sich, dass ein dünner grauer Rand auf dem Bildschirm zu erkennen ist.</p>
 
