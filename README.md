@@ -4,15 +4,15 @@
 <a id="Übe">CranberryVodka</a>
 </h1>
 
-Inhaltsverzeichnis
-
+<h3>Inhaltsverzeichnis</h3>
+<ol>
 <li><a href="#Cod">Code.org®</a></li>
 <li><a href="#App">App-Konzept</a></li>
 <li><a href="#Ver">Versionen</a></li>
 <li><a href="#Pro">Programmierung</a></li>
 <li><a href="#Fin">Finale App</a></li>
 <li><a href="#Bug">Bugs</a></li>
-
+</ol>
 
 
 <h2>
@@ -26,9 +26,9 @@ Inhaltsverzeichnis
 
 <p>Die benutzte Sprache ist JavaScript, welche zu Blöcken (aka: blocks) programmiert wurden, wodurch die angehenden Programmierer nicht viel Erfahrung mir JavaScrip haben müssen oder mit dem Programmieren an sich, da man weniger Fehler mit der Blockprogrammierung macht.</p>
 
-<p>Es gibt verschiedene Kurse, sowie das Studio Applab, welches ich benutzt habe, um eine App zu erstellen.</p></p>
+<p>Es gibt verschiedene Kurse, sowie das Studio Applab, welches ich benutzt habe, um eine App zu erstellen.</p>
 
-<p>Bei Applab gibt es 3 Bereiche in denen man arbeiten kann: Code, Design und Data.
+<p>Bei Applab gibt es 3 Bereiche in denen man arbeiten kann: Code, Design und Data.</p>
 
 <p>Code wird zum Programmieren der App genutzt, während Design die screens erstellt und bei Data Listen erstellt werden können. Bei Code und Design ist das Smartphone erkennbar, damit die Programmierer erkennen, wie das Design sein könnte und welche Funktionen sie erstellen können.</p>
 
@@ -48,18 +48,18 @@ Inhaltsverzeichnis
 </h2>
 
 
-<p>Abgesehen von dem späten Start des Projektes, gab es viele Hürden, die zu meistern waren. Es entstanden Probleme bei der Wiedergabe der orders und drinks, weswegen 2 verschiedene Ansätze beziehungsweise Versionen der App entstanden.
+<p>Abgesehen von dem späten Start des Projektes, gab es viele Hürden, die zu meistern waren. Es entstanden Probleme bei der Wiedergabe der orders und drinks, weswegen 2 verschiedene Ansätze beziehungsweise Versionen der App entstanden.</p>
 
-<h2>
+<h3>
 Version 1
-</h2>
+</h3>
 
 
 <p>Zuerst wurden screens mit den orders erstellt. Beim Klicken wird der User auf den nächsten screen geleitet, dies geschah in einer festgelegten Reihenfolge durch das manuelle Setzen der Bedingungen click, setscreen. Dadurch musste man, um eine neue order hinzuzufügen, einen neuen screen erstellen und manuell wieder ein event erstellen.</p>
 
-<h2>
+<h3>
 Version 2
-</h2>
+</h3>
 
 <p>Die screens wurden in einer Liste definiert, die abgelaufen wurde. Dadurch wurde die Liste in der festgelegten Reihenfolge abgelaufen und man musste einen neuen screen erstellen und diese in die Liste einfügen.</p>
 
@@ -87,7 +87,7 @@ Version 2
 </h2>
 
 
-<p>Die fertige App kann nun <p><a href="https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q">CranberryVodka</a></p>  geteilt werden.</p>
+<p>Die fertige App kann nun <a href="https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q">CranberryVodka</a>  geteilt werden.</p>
 
 <p>Wenn man den link öffnet, muss erst das Alter des Users angegeben werden. Applab verbietet es Minderjährigen die Apps auf dem Smartphone zu speichern und leitet diese zu Code.org® weiter.</p>
 
