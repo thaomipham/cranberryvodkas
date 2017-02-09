@@ -6,17 +6,17 @@
 
 Inhaltsverzeichnis
 
-<li><a href="#Übe">Code.org®</a></li>
-<li><a href="#Übe">App-Konzept</a></li>
-<li><a href="#Übe">Versionen</a></li>
-<li><a href="#Übe">Programmierung</a></li>
-<li><a href="#Übe">Finale App</a></li>
-<li><a href="#Übe">Bugs</a></li>
+<li><a href="#Cod">Code.org®</a></li>
+<li><a href="#App">App-Konzept</a></li>
+<li><a href="#Ver">Versionen</a></li>
+<li><a href="#Pro">Programmierung</a></li>
+<li><a href="#Fin">Finale App</a></li>
+<li><a href="#Bug">Bugs</a></li>
 
 
 
 <h2>
-<a id="Übe">Code.org®</a>
+<a id="Cod">Code.org®</a>
 </h2>
 
 
@@ -34,7 +34,7 @@ Inhaltsverzeichnis
 
 
 <h2>
-<a id="Übe">App-Konzept</a>
+<a id="App">App-Konzept</a>
 </h2>
 
 
@@ -44,7 +44,7 @@ Inhaltsverzeichnis
 
 
 <h2>
-<a id="Übe">Versionen®</a>
+<a id="Ver">Versionen®</a>
 </h2>
 
 
@@ -65,7 +65,7 @@ Version 2
 
 
 <h2>
-<a id="Übe">RPgrammierung</a>
+<a id="Pro">RPgrammierung</a>
 </h2>
 
 
@@ -83,7 +83,7 @@ Version 2
 
 
 <h2>
-<a id="Übe">Finale App</a>
+<a id="Fin">Finale App</a>
 </h2>
 
 
@@ -94,7 +94,7 @@ Version 2
 <p>Um die App auf das smartphone zu laden, muss man diese zu home screen hinzuzufügen.</p>
 
 <h2>
-<a id="Übe">Bugs</a>
+<a id="Bug">Bugs</a>
 </h2>
 
 <p>Da der gametext mit der jeweiligen Hintergrundfarbe über den ganzen Bildschirm definiert wurde, mussten keine neuen screens geschaffen werden, wodurch das einfügen von neuen orders und drinks einfacher wird. Jedoch zieht das nach sich, dass ein dünner grauer Rand auf dem Bildschirm zu erkennen ist.</p>
