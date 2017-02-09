@@ -96,9 +96,9 @@ Version 2
 <p>Wenn man den link öffnet, muss erst das Alter des Users angegeben werden. Applab verbietet es Minderjährigen die Apps auf dem Smartphone zu speichern und leitet diese zu Code.org® weiter.</p>
 
 <p>Um die App auf das smartphone zu laden, muss man diese zu home screen hinzuzufügen.</p>
- 
- <img src="pictures/iphonescreenshotapplab.PNG" alt="Screenshot iPhone" style="float: left;">
-
+ <div style="float: left;">
+ <img src="pictures/iphonescreenshotapplab.PNG" alt="Screenshot iPhone">
+</div>
 <h2>
 <a id="Bug">Bugs</a>
 </h2>
