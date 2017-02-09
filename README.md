@@ -11,7 +11,7 @@ Inhaltsverzeichnis
 <li><a href="#Übe">3. Versionen</a></li>
 <li><a href="#Übe">4. Programmierung</a></li>
 <li><a href="#Übe">5. Finale App</a></li>
-<li><a href="#Übe">>6. Bugs</a></li>
+<li><a href="#Übe">6. Bugs</a></li>
 
 
 
