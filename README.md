@@ -9,6 +9,7 @@
 <li><a href="#Cod">Code.org®</a></li>
 <li><a href="#App">App-Konzept</a></li>
 <li><a href="#Ver">Versionen</a></li>
+<li><a href="#Gra">Graphische Gestaltung</a></li>
 <li><a href="#Pro">Programmierung</a></li>
 <li><a href="#Fin">Finale App</a></li>
 <li><a href="#Bug">Bugs</a></li>
@@ -70,6 +71,15 @@ Version 2
 
 <img src="pictures/3.png">
  
+ 
+<h2>
+<a id="Gra">Graphische Gestaltung</a>
+</h2>
+ 
+ <img src="pictures/design applab.png">
+ 
+ <p> Die Weboberfläche von Applab in der man das Interface der App per Drag'n'Drop gestaltet. Den Buttons und Textfeldern kann man Eigenschaften und IDs vergeben. 
+ 
 <h2>
 <a id="Pro">Programmierung</a>
 </h2>
@@ -86,10 +96,6 @@ Version 2
 <p>Wird nun einer der eben erstellten Buttons gedrückt, wird eine weitere Funktion readRecords gestartet, die mithilfe der ID des geklickten Buttons den Wert der Spalte url des zugehörigen Elementes findet. Nun wird auf die Seite “DRINKPIC” gewechselt, die Flächendeckend vom Bild recipe bedeckt ist. Dieses Bild erhält nun die eben gefundene url und das entsprechende Bild wird geladen. Wird dieses Bild wiederum geklickt, öffnet sich wieder der screen “DRINKS”, während die url des Bildes “recipe” genullt wird, sodass während der Ladezeit des nächsten Rezeptes nicht das alte Bild angezeigt wird.</p>
 
 <p>Beim Klicken des Bildes wurde nicht nur die Seite gewechselt, sondern auch die Funktion “createButtons” neu gestartet, da diese nicht nur beim Klicken des Buttons “Good drinks for a great party”, sondern durch den Ausdruck “oder”, also “||” auch durch Drücken des Rezeptbildes gestartet wird. Um ein gedoppeltes Laden der Bilder zu vermeiden, werden hier zunächst alle alten Buttons gelöscht. Während des Aufenthalts auf dieser Seite ist es dem Nutzer ebenfalls möglich, jederzeit durch ein Drücken des Buttons “Home” auf den Startbildschirm zurück zu kehren.</p>
-
-<h3>
-Graphische Gestaltung
-</h3>
 
 <h2>
 <a id="Fin">Finale App</a>
