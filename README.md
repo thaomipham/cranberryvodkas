@@ -35,11 +35,14 @@
 
 <p>Das eigentliche Programmieren findet im ersten Bereich, dem Code-Bereich statt. Im Design-Bereich kann man die graphische Oberfläche gestalten, im Data-Bereich kann man Datenbanken, bzw. Listen erstellen, auf die man beim Programmieren zurückgreifen kann. Im Design- und Code-Bereich ist links eine Vorschau des Smartphones eingebettet, in der man das Projekt gestalten und nachvollziehen kann.</p>
 
-<img src="pictures/data applab.png">
-
+<p>
 <a href="pictures/1.png" target="_blank">
 <img src="pictures/1.png">
 </a>
+Der Code-Bereich
+</p>
+
+<img src="pictures/data applab.png">
 
 <h2>
 <a id="App">App-Konzept</a>
