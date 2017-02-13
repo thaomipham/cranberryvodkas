@@ -129,7 +129,7 @@ Drinks
 </h2>
 
 
-<p>Die fertige App kann nun über den Link <a href="https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q" target="_blank">CranberryVodka</a>  geteilt werden.</p>
+<p>Die fertige App kann ist nun unter <a href="https://studio.code.org/projects/applab/fE2MZErtLIvPFBxEBf-o7Q" target="_blank">CranberryVodka</a> erreichbar und kann direkt im Browser ausprobiert werden, gleichzeitig kann man sich dort aber auch noch den Quelltext ansehen. Die Design- und Data-Bereiche sind leider nicht öffentlich zugänglich.</p>
 
 <p>Wenn man den link öffnet, muss erst das Alter des Users angegeben werden. Applab verbietet es Minderjährigen die Apps auf dem Smartphone zu speichern und leitet diese zu Code.org® weiter.</p>
 
