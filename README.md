@@ -159,10 +159,10 @@ Drinks
 
 <p>Da der gametext mit der jeweiligen Hintergrundfarbe über den ganzen Bildschirm definiert wurde, mussten keine neuen screens geschaffen werden, wodurch das einfügen von neuen orders und drinks einfacher wird. Jedoch zieht das nach sich, dass ein dünner grauer Rand auf dem Bildschirm zu erkennen ist.</p>
 
-<p>Dies könnte eventuell bei Design geändert werden(?)</p>
+<p>Dies könnte eventuell bei Design geändert werden<sup>?</p>
 <p>Zudem können "random" wieder aus der liste orders gezogen werden, wodurch die gleiche order nochmals dran kommen kann.</p>
 
-<p>Dies könnte eventuell geändert werden, indem die bereits gezogenen orders in eine neue Liste verschoben werden und nicht wieder gewählt werden können, jedoch ist die List fest definiert(?)</p>
+<p>Dies könnte eventuell geändert werden, indem die bereits gezogenen orders in eine neue Liste verschoben werden und nicht wieder gewählt werden können, jedoch ist die List fest definiert<sup>?</p>
 
 <p>Die Liste könnte mehr orders erhalten und die Chancen, dass die selbe "random" gezogen wird, ist dadurch kleiner <sup>?</sup>
 Diese App wurde erstellt von Thao Mi Pham, 12 ab, im Rahmen des Informatikunterrichts an der Stormarnschule bei Herrn Buhl im Jahre 2016.</p>
