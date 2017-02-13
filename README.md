@@ -29,9 +29,11 @@
 
 <p>Es gibt verschiedene Kurse, sowie das Studio Applab, welches ich benutzt habe, um eine App zu erstellen.</p>
 
+<img src="pictures/3 options applab.png">
+
 <p>Bei Applab gibt es 3 Bereiche in denen man arbeiten kann: Code, Design und Data.</p>
 
-<p>Code wird zum Programmieren der App genutzt, während Design die screens erstellt und bei Data Listen erstellt werden können. Bei Code und Design ist das Smartphone erkennbar, damit die Programmierer erkennen, wie das Design sein könnte und welche Funktionen sie erstellen können.</p>
+<p>Das eigentliche Programmieren findet im ersten Bereich, dem Code-Bereich statt. Im Design-Bereich kann man die graphische Oberfl&auml;che gestalten. Bei Code und Design ist das Smartphone erkennbar, damit die Programmierer erkennen, wie das Design sein könnte und welche Funktionen sie erstellen können.</p>
 
 <a href="pictures/1.png" target="_blank">
 <img src="pictures/1.png">
@@ -78,7 +80,7 @@ Version 2
  
  <img src="pictures/design applab.png">
  
- <p> Die Weboberfläche von Applab in der man das Interface der App per Drag'n'Drop gestaltet. Den Buttons und Textfeldern kann man Eigenschaften und IDs vergeben. 
+ <p>Die Weboberfläche von Applab in der man das Interface der App per Drag'n'Drop gestaltet. Den Buttons und Textfeldern kann man Eigenschaften und IDs vergeben.</p>
  
 <h2>
 <a id="Pro">Programmierung</a>
