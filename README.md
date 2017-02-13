@@ -22,10 +22,10 @@
 
 
 
-<p>Code.org® ist eine non-profitable Organisation, die es sich zur Ausgabe gemacht hat, jedem Schüler die Möglichkeit zu geben Informatik-Unterricht zu erhalten. Dies ist seit dem Start in 2013 durch Sponsoren wie Microsoft, Facebook, Google oder auch Einzelspendern ermöglicht worden.</p>
+<p>Code.org® ist eine non-profitable Organisation, die es sich zur Aufgabe gemacht hat, jedem Schüler die Möglichkeit zu geben, Informatik-Unterricht zu erhalten. Dies ist seit dem Start in 2013 durch Sponsoren wie Microsoft, Facebook, Google oder auch Einzelspendern ermöglicht worden.</p>
 
 
-<p>Die benutzte Sprache ist JavaScript, welche zu Blöcken (aka: blocks) programmiert wurden, wodurch die angehenden Programmierer nicht viel Erfahrung mir JavaScrip haben müssen oder mit dem Programmieren an sich, da man weniger Fehler mit der Blockprogrammierung macht.</p>
+<p>Verwendet wird JavaScript, welches zur vereinfachten Darstellung in Blöcken angezeigt wird, wodurch angehende Programmierer, die nicht viel Erfahrung mit JavaScript oder Programmiersprachen im Allgemeinen haben, einfacher einen schnellen Überblick über die Funktion des Codes erhalten können, ohne sich mit lästigen Rechtschreibfehlern aufzuhalten.</p>
 
 <p>Es gibt verschiedene Kurse, sowie das Studio Applab, welches ich benutzt habe, um eine App zu erstellen.</p>
 
@@ -33,7 +33,7 @@
 
 <p>Bei Applab gibt es 3 Bereiche in denen man arbeiten kann: Code, Design und Data.</p>
 
-<p>Das eigentliche Programmieren findet im ersten Bereich, dem Code-Bereich statt. Im Design-Bereich kann man die graphische Oberfl&auml;che gestalten. Bei Code und Design ist das Smartphone erkennbar, damit die Programmierer erkennen, wie das Design sein könnte und welche Funktionen sie erstellen können.</p>
+<p>Das eigentliche Programmieren findet im ersten Bereich, dem Code-Bereich statt. Im Design-Bereich kann man die graphische Oberfläche gestalten, im Data-Bereich kann man Datenbanken, bzw. Listen erstellen, auf die man beim Programmieren zurückgreifen kann. Im Design- und Code-Bereich ist links eine Vorschau des Smartphones eingebettet, in der man das Projekt gestalten und nachvollziehen kann.</p>
 
 <a href="pictures/1.png" target="_blank">
 <img src="pictures/1.png">
