@@ -38,13 +38,14 @@
 <p>
 <a href="pictures/1.png" target="_blank">
 <img src="pictures/1.png">
-</a>
+</a><br>
 Der Code-Bereich
 </p>
 <hr>
 
 <p>
 <img src="pictures/data applab.png">
+<br>
 Der Data-Bereich
 </p>
 
