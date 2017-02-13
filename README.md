@@ -35,6 +35,8 @@
 
 <p>Das eigentliche Programmieren findet im ersten Bereich, dem Code-Bereich statt. Im Design-Bereich kann man die graphische Oberfläche gestalten, im Data-Bereich kann man Datenbanken, bzw. Listen erstellen, auf die man beim Programmieren zurückgreifen kann. Im Design- und Code-Bereich ist links eine Vorschau des Smartphones eingebettet, in der man das Projekt gestalten und nachvollziehen kann.</p>
 
+<img src="pictures/data applab.png">
+
 <a href="pictures/1.png" target="_blank">
 <img src="pictures/1.png">
 </a>
@@ -113,7 +115,6 @@ Drinks
 
 <p>Beim Klicken des Bildes wurde nicht nur die Seite gewechselt, sondern auch die Funktion “createButtons” neu gestartet, da diese nicht nur beim Klicken des Buttons “Good drinks for a great party”, sondern durch den Ausdruck “oder”, also “||” auch durch Drücken des Rezeptbildes gestartet wird. Um ein gedoppeltes Laden der Bilder zu vermeiden, werden hier zunächst alle alten Buttons gelöscht. Während des Aufenthalts auf dieser Seite ist es dem Nutzer ebenfalls möglich, jederzeit durch ein Drücken des Buttons “Home” auf den Startbildschirm zurück zu kehren.</p>
 
-<img src="pictures/data applab.png">
 
 <h2>
 <a id="Fin">Finale App</a>
