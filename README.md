@@ -41,8 +41,12 @@
 </a>
 Der Code-Bereich
 </p>
+<hr>
 
+<p>
 <img src="pictures/data applab.png">
+Der Data-Bereich
+</p>
 
 <h2>
 <a id="App">App-Konzept</a>
