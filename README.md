@@ -64,7 +64,7 @@ Der Data-Bereich
 </h2>
 
 
-<p>Abgesehen von dem späten Start des Projektes, gab es viele Hürden, die zu meistern waren. Es entstanden Probleme bei der Wiedergabe der orders und drinks, weswegen 2 verschiedene Ansätze beziehungsweise Versionen der App entstanden.</p>
+<p>Abgesehen von dem späten Start des Projektes, gab es viele Hürden, die zu meistern waren. Es entstanden Probleme bei der Wiedergabe der orders und drinks, weswegen zwei verschiedene Ansätze beziehungsweise Versionen der App vor der Finalen App  entstanden.<a href="#Fin">Finale App"</a></p>
 
 <h3>
 Version 1
