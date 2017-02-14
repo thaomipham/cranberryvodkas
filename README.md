@@ -137,8 +137,12 @@ Drinks
 
 <p>Wenn man den link öffnet, muss erst das Alter des Users angegeben werden. Applab verbietet es Minderjährigen die Apps auf dem Smartphone zu speichern und leitet diese zu Code.org® weiter.</p>
 
-<p>Um die App auf das Smartphone zu laden, muss man diese zu <u>home screen<u/> hinzuzufügen.</p>
-  
+<p>Um die App auf das Smartphone zu laden, muss man diese zu <u>home screen</u> hinzuzufügen.</p>
+
+<p>Wenn man das Spiel spielen will, muss man nur die <i>orders</i> vorlesen und weiter auf den <i>screen</i> bzw. Bildschirm klicken, um die nächste <i>orders</i> zu erhalten. <sub>Momentan dauert das Spiel ca. 30 Minuten.</sub> </p>
+
+<p>Die <i>drinks</i> bzw. Rezepte kann man einsehen, wenn man den jeweiligen "button" mit dem gleichnamigen NAmen anklickt. </p>
+
 <table>
  <tr>
   <td width="50%">
