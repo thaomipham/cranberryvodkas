@@ -90,7 +90,7 @@ Version 2
  
  <img src="pictures/design applab.png">
  
- <p>Die Weboberfläche von Applab in der man das Interface der App per Drag'n'Drop gestaltet. Den Buttons und Textfeldern kann man Eigenschaften und IDs vergeben.</p>
+ <p>Die Weboberfläche von Applab in der man das Interface der App per Drag'n'Drop gestaltet. Den Buttons und Textfeldern kann man Eigenschaften und IDs vergeben. In meinem Design wird auf der Seite "MAIN" per Textfeld "Are you ready to get drunk?" gefragt. Darunter sind zwei Optionen, die man jeweils aussuchen kann durch einfaches klicken. Dadruch wird man zum Spiel weiter geleitet oder ein Memewird gezeigt. Dazu gibt es den "drinks button", welches einen zu "drinks" weiterleitet.</p>
  
 <h2>
 <a id="Pro">Programmierung</a>
