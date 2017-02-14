@@ -73,13 +73,17 @@ Version 1
 
 <p>Zuerst wurden screens mit den orders erstellt. Beim Klicken wird der User auf den nächsten screen geleitet, dies geschah in einer festgelegten Reihenfolge durch das manuelle Setzen der Bedingungen click, setscreen. Dadurch musste man, um eine neue order hinzuzufügen, einen neuen screen erstellen und manuell wieder ein event erstellen.</p>
 
+Diese Version wurde in die <i>Version 2</i> geändert. Durch die manuell festgelegte Reihenfolge der "screens" werden die <i>orders</i> in der gleichen Reihenfolge wieder gegeben. 
+
 <img src="pictures/2.png">
 
 <h3>
 Version 2
 </h3>
 
-<p>Zuerst wird eine Liste erstellt, die (in der Version 2) acht Werte enthält - <i>(drink1 - drink8) bzw. "orders"</i>. Eine Schleife, die sich wiederholt, solange die Variable <i>i</i> kleiner ist als die Anzahl an Einträgen in der Liste (acht). Innerhalb der Schleife wird <i>i</i> um jeweils einen erhöht. Außerdem gibt sie den <i>i</i>-ten Wert von <i>list</i> an die Funktion <i>setScreen</i> weiter. Wenn <i>i</i> einmal durchgelaufen ist (also größer als die Anzahl von Einträgen in <i>list</i>), wird <i>i</i> wieder gleich 0 gesetzt. </p>
+<p>Zuerst wird eine Liste erstellt, die (in der Version 2) acht Werte enthält - <i>(drink1 - drink8) bzw. orders</i>. Eine Schleife, die sich wiederholt, solange die Variable <i>i</i> kleiner ist als die Anzahl an Einträgen in der Liste (acht). Innerhalb der Schleife wird <i>i</i> um jeweils einen erhöht. Außerdem gibt sie den <i>i</i>-ten Wert von <i>list</i> an die Funktion <i>setScreen</i> weiter. Wenn <i>i</i> einmal durchgelaufen ist (also größer als die Anzahl von Einträgen in <i>list</i>), wird <i>i</i> wieder gleich 0 gesetzt. </p>
+
+Diese Version ist unter <a href="https://studio.code.org/projects/applab/26mDxjaCSiFJBvfqG6KI5g" target="_blank">Vodka</a> erreichbar und kann direkt im Browser ausprobiert werden, gleichzeitig kann man sich dort aber auch noch den Quelltext ansehen. Durch die Liste werden die <i>orders</i> in der gleichen Reihenfolge wieder gegeben.
 
 <img src="pictures/3.png">
  
@@ -90,14 +94,14 @@ Version 2
  
  <img src="pictures/design applab.png">
  
- <p>Die Weboberfläche von Applab in der man das Interface der App per Drag'n'Drop gestaltet. Den Buttons und Textfeldern kann man Eigenschaften und IDs vergeben. In meinem Design wird auf der Seite "MAIN" per Textfeld "Are you ready to get drunk?" gefragt. Darunter sind zwei Optionen, die man jeweils aussuchen kann durch einfaches klicken. Dadruch wird man zum Spiel weiter geleitet oder ein Memewird gezeigt. Dazu gibt es den "drinks button", welches einen zu "drinks" weiterleitet.</p>
+ <p>Die Weboberfläche von Applab in der man das Interface der App per Drag'n'Drop gestaltet. Den Buttons und Textfeldern kann man Eigenschaften und IDs vergeben. In meinem Design wird auf der Seite "MAIN" per Textfeld "Are you ready to get drunk?" gefragt. Darunter sind zwei Optionen, die man jeweils aussuchen kann durch einfaches klicken. Dadruch wird man zum Spiel weiter geleitet oder ein Memewird gezeigt. Dazu gibt es den "drinks button", welches einen zu <i>drinks</i> weiterleitet.</p>
  
 <h2>
 <a id="Pro">Programmierung</a>
 </h2>
 
 
-<p>Über den Entwurf wurden die 5 screens “MAIN”, “GAME”, “DRINKS”,”DRINKPIC” und “NO” grundlegend gestaltet. Alle Buttons und andere Objekte, die permanent vorhanden sind, wurden hier erstellt. Außerdem greift das Programm auf zwei vordefinierte und durch den Nutzer unveränderbare Datenbanken zu. Die erste heißt “orders” und beinhaltet drei Spalten “ID”, “text” und “color”, die zweite heißt “drinks” und beinhaltet ebenfalls drei Spalten “ID”, “url” und “name”.</p>
+<p>Über den Entwurf wurden die 5 screens “MAIN”, “GAME”, “DRINKS”,”DRINKPIC” und “NO” grundlegend gestaltet. Alle Buttons und andere Objekte, die permanent vorhanden sind, wurden hier erstellt. Außerdem greift das Programm auf zwei vordefinierte und durch den Nutzer unveränderbare Datenbanken zu. Die erste heißt <i>orders</i> und beinhaltet drei Spalten “ID”, “text” und “color”, die zweite heißt <i>drinks</i> und beinhaltet ebenfalls drei Spalten “ID”, “url” und “name”.</p>
 
 <p>Öffnet sich die App, so landet der Nutzer auf der Seite MAIN, die als Hauptseite (make default) definiert ist. Klickt er auf “I’m a pussy”, wird er einfach auf die Seite “NO” weitergeleitet, ein weiterer Klick auf diese Seite befördert ihn zurück auf die Startseite. Klickt der User auf “Hell Yeah”, so wird er auf den screen “GAME” weitergeleitet.</p>
 
@@ -133,7 +137,7 @@ Drinks
 
 <p>Wenn man den link öffnet, muss erst das Alter des Users angegeben werden. Applab verbietet es Minderjährigen die Apps auf dem Smartphone zu speichern und leitet diese zu Code.org® weiter.</p>
 
-<p>Um die App auf das smartphone zu laden, muss man diese zu home screen hinzuzufügen.</p>
+<p>Um die App auf das Smartphone zu laden, muss man diese zu <u>home screen<u/> hinzuzufügen.</p>
   
 <table>
  <tr>
